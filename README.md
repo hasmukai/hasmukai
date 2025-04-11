@@ -1,7 +1,7 @@
 - Name: Hasmukai(はすむかい)
 - Hometown: Shizuoka prefecture in Japan
-- College: Tokyo Institute of Technology(東京工業大学)
-- School Year: First undergraduate student(B2)
+- College: Tokyo Institute of Technology(東京科学大学)
+- School Year: First undergraduate student(B3)
 - Major: Information Technology
 - Favorite game: _**Genshin Impact**_, Minecraft, Valorant
 - Programming languages which I am learning now: C++, Python, Javascript
