@@ -1,6 +1,6 @@
 - Name: Hasmukai(はすむかい)
 - Hometown: Shizuoka prefecture in Japan
-- College: Tokyo Institute of Technology(東京科学大学)
+- College: Institute of Science Tokyo(東京科学大学)
 - School Year: First undergraduate student(B4)
 - Major: Information Technology
 - Favorite game: _**Zenless Zone Zero**_, Minecraft, Valorant
